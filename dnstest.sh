@@ -22,7 +22,6 @@ PROVIDERSV4="
 8.26.56.26#comodo
 45.90.28.202#nextdns
 193.110.81.9#dns0.euZero
-193.110.81.0#dns0.eu
 "
 
 PROVIDERSV6="
